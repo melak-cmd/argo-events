@@ -1,3 +1,5 @@
+````bash
+.
 ├── LICENSE
 ├── README.md
 ├── base
@@ -9,3 +11,4 @@
 └── overlays
     └── production
         └── kustomization.yaml
+````
